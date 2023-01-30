@@ -1,0 +1,35 @@
+<RCC>
+    <qresource prefix="/">
+        <file>login/2.png</file>
+        <file>fontpage/1.png</file>
+        <file>fontpage/2.png</file>
+        <file>fontpage/3.png</file>
+        <file>fontpage/4.png</file>
+        <file>fontpage/5.png</file>
+        <file>fontpage/6.png</file>
+        <file>fontpage/7.png</file>
+        <file>fontpage/8.png</file>
+        <file>fontpage/9.png</file>
+        <file>C:/Users/HuWenTao/Desktop/picture/add/1.webp</file>
+        <file>login/3.png</file>
+        <file>login/4.png</file>
+        <file>login/5.png</file>
+        <file>productionlogo/1.png</file>
+        <file>productionlogo/2.png</file>
+        <file>productionlogo/3.png</file>
+        <file>productionlogo/4.png</file>
+        <file>productionlogo/5.png</file>
+        <file>productionlogo/6.png</file>
+        <file>productionlogo/7.png</file>
+        <file>productionlogo/8.png</file>
+        <file>productionlogo/9.png</file>
+        <file>productionlogo/10.png</file>
+        <file>productionlogo/11.png</file>
+        <file>productionlogo/12.png</file>
+        <file>productionlogo/13.png</file>
+        <file>10.png</file>
+        <file>11.png</file>
+        <file>productionlogo/0.png</file>
+        <file>productionlogo/14.png</file>
+    </qresource>
+</RCC>
